@@ -1,0 +1,2 @@
+SELECT * FROM sotr
+WHERE birth_date BETWEEN '1977-12-31' AND '1983-12-31';
